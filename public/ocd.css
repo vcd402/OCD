@@ -1,0 +1,63 @@
+/* CSS Document */
+
+html{ width: 100%; 
+	 height: 100%;}
+
+	
+body{
+	width:100%;
+	height:100%;
+	margin: 0 0;
+	background:#EDEAE8;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+a{ font-weight: bold;}
+a img{
+	border: none;
+}
+
+#container{
+	position:relative;
+	top: 60px;
+    left:50%;
+    margin-left:-450px;
+    width:900px;
+    height:600px;
+}
+
+#menu{
+	position:relative;
+	top: 0px;
+	right: 0px;
+}
+
+#books{
+	margin-top: 20px;
+}
+
+.min{
+	position:relative;
+	top: -160px;
+	left: -175px;
+}
+
+.bar{
+	background-color:#FF431A;
+	opacity:.72;
+	width:173px;
+	height:53px;
+	position:relative;
+	top: -135px;
+}
+
+.bar a{
+	padding: 10px;
+	color:#EDEAE8;
+	font: "Courier New", Courier, monospace;
+}
+
+.books{
+	float: left;
+	margin-right:30px;
+}
