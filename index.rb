@@ -1,3 +1,5 @@
+# Project by pratyush
+
 require 'sinatra'
 
 get '/ocd' do
