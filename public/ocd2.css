@@ -144,13 +144,13 @@ ul.thumbnails{
 	height: 70px;
 	background-color: #FF431A;
 	opacity: .8;
-	position: relative;
+	position: absolute;
 	top: 20px;
 }
 
 a.men{
 	padding-right: 5px;
-	padding-left: 20px;
+	padding-left: 70px;
 	color: #000; 
 	
 }
